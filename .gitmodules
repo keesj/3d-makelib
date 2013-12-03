@@ -1,3 +1,6 @@
 [submodule "MCAD"]
 	path = MCAD
 	url = https://github.com/elmom/MCAD.git
+[submodule "Thingiverse-Projects"]
+	path = Thingiverse-Projects
+	url = https://github.com/syvwlch/Thingiverse-Projects.git
