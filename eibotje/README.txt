@@ -13,3 +13,5 @@ and compile "ArduinoCode" on an arduino.
 
 Again uses the very simple and cheap 28BYJ-48-Stepper-Motor.
 http://www.vanallesenmeer.nl/5v-stappenmotor-met-ULN2003-driver-
+
+Get the code/design from https://github.com/keesj/3d-makelib/tree/master/eibotje
