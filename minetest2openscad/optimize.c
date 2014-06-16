@@ -75,6 +75,7 @@ int main(int argc,char **argv)
 								for (g =z+1 ;  g < z + count ; g++){
 									xyz[x][y][g] =0;
 								}
+								break;
 							}
 						}
 					}
