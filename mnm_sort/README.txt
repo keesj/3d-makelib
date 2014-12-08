@@ -2,6 +2,9 @@ M&M sorting machine
 
 See http://youtu.be/gFbJhNDCt2I for a demo
 
+Thingyverse
+http://www.thingiverse.com/thing:584043
+
 
 "Schematics"
   5v ------------------------------------------------------
