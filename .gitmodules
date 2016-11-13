@@ -4,3 +4,6 @@
 [submodule "Thingiverse-Projects"]
 	path = Thingiverse-Projects
 	url = https://github.com/syvwlch/Thingiverse-Projects.git
+[submodule "Things"]
+	path = Things
+	url = git@github.com:digitalbytes/Things.git
