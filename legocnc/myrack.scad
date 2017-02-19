@@ -1,5 +1,4 @@
 use <../external/rack_and_pinion.scad>
-use <../mcad/lego_compatibility.scad>
 
 include <settings.scad>
 
